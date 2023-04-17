@@ -23,3 +23,4 @@ This project has an MIT License.
 
 - [StarterTemplates](https://twitter.com/startertemp)
 - [LearnWeb3DAO](https://learnweb3.io)
+# LW3-DAO
