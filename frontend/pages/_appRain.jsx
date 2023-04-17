@@ -1,5 +1,6 @@
 import "../styles/globals.css";
-import "@rainbow-me/rainbowkit/styles.css";
+import "../node_modules/@rainbow-me/rainbowkit/styles.css";
+
 
 /*
 You can add alchemy provider and configure supported chains.
