@@ -432,7 +432,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         Made with 💀 by Crypto Devs
-        <a target="_blank" style="padding:32px;color:#ed474f" href="https://warlocks.netlify.app">💀 Let&#x27;s connect!</a>
+        <a target="_blank" href="https://warlocks.netlify.app">💀 Let&#x27;s connect!</a>
       </footer>
     </div>
   );
